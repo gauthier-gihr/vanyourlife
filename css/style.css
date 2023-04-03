@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra&family=Lora&family=Poppins&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url(components/card.css);
+
+
+h1 {
+	font-family: Alkatra;
+	font-weight: bold;
+	text-align: ;
+	color:white:  
+}
+
+h2 {
+	font-family: Alkatra;
+	font-weight: bold;
+	text-align: center;
+}
+
+h3 {
+	font-family: Alkatra;
+	 color: #5497A7;
+	 font-size: 40px;
+}
+
+h4 {
+	font-family: Alkatra;
+	color: #5497A7;
+	font-size: 30px;
+}
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+ video {
+    display: block;
+    margin: 0 auto;
+    border-radius: 0px;
+    margin-bottom: 50px;
+    margin-top: -70px;
+  }
+
